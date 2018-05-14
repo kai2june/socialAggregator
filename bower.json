@@ -1,0 +1,23 @@
+{
+  "name": "socialaggregator",
+  "description": "",
+  "main": "",
+  "authors": [
+    "kai2june <104703027@nccu.edu.tw>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.3.1",
+    "fontawesome": "^5.0.13",
+    "bootstrap": "^4.1.1"
+  }
+}
